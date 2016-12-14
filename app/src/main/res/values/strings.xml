@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BP-goro-repuh</string>
+    <string name="name">Name</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+</resources>
